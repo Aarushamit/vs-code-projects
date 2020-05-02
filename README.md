@@ -1,2 +1,2 @@
-# vs-code-projects
-all vs code projects here
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
